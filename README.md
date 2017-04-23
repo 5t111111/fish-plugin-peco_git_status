@@ -1,9 +1,9 @@
-# fish-plugin-peco_git_status
+# peco_git_status
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_git_status
+$ fisher unreliable-angels/peco_git_status
 ```
 
 ## Example key binding
